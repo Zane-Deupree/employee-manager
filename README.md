@@ -19,10 +19,3 @@ photo of what it should look like in the command line:
 
 ![alt text](screenshot.jpg)
 
-### Demo
-
-
-![ demogif](gif.gif) <br>
-
-Link to a complete demo video 
-[https://drive.google.com/file/d/1Swle2oOZ309-9Juh0D76UUkndM73ftel/view]
